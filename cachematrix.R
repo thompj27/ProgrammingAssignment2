@@ -1,4 +1,5 @@
 ## a pair of functions that cache the inverse of a matrix
+## John Thompson 25Oct2015
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
